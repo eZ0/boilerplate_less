@@ -1,7 +1,7 @@
 {
-  "name": "app-bootstrap",
-  "description": "Basic web app bootstrap package",
-  "author": "Vincent Peters <me@vincentpeters.be>",
+  "name": "less-boilerplate",
+  "description": "Ready to use boilerplate for gulp + less + all the cool stuff!",
+  "author": "Ksenia Karelskaya <ksenia.be>",
   "version": "0.0.1",
   "devDependencies": {
     "del": "^0.1.3",

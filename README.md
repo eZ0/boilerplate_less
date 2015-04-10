@@ -1,4 +1,5 @@
-#How to: gulp with less [Gulp - The streaming build system]
+#How to gulp with less 
+[Gulp - The streaming build system]
 
 ###1. Open Terminal
 Check if npm is installed: 
